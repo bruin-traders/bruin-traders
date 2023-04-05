@@ -1935,6 +1935,7 @@ input, select, textarea {
 			top: 0;
 			width: 2.25em;
 		}
+		
 
 			.icon.circle:hover {
 				top: -0.2em;
@@ -3503,7 +3504,7 @@ input, select, textarea {
 		background-image: url('../../images/prateek.jpeg')
 	}
 	.syed {
-		background-image: url('../../images/default.jpeg');
+		background-image: url('../../images/syed.png');
 	}
 	.ravi {
 		background-image: url('../../images/ravi.jpeg');
@@ -3538,5 +3539,10 @@ input, select, textarea {
 	.joseph {
 		background-image: url('../../images/joseph.jpeg')
 	}
+	.claire {
+		background-image: url('../../images/claire.jpeg')
+	}
 
-	
+.logo {
+	background-image: url('../../images/logo3.svg')
+}
