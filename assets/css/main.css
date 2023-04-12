@@ -3522,7 +3522,7 @@ input, select, textarea {
 		background-image: url('../../images/gavin.jpeg');
 	}
 	.tyler {
-		background-image: url('../../images/default.jpeg');
+		background-image: url('../../images/tyler.jpeg');
 	}
 	.sivansh {
 		background-image: url('../../images/default.jpeg');
@@ -3541,6 +3541,9 @@ input, select, textarea {
 	}
 	.claire {
 		background-image: url('../../images/claire.jpeg')
+	}
+	.victor {
+		background-image: url('../../images/victor.jpeg')
 	}
 
 .logo {
