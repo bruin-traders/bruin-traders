@@ -3489,7 +3489,7 @@ input, select, textarea {
 		width: 150px;
 		height: 150px;
 		border-radius: 50%;
-		background-image: url('../../images/default.jpeg');
+		background-image: url('../../images/default.png');
 		background-repeat: no-repeat;
 		background-position: center center;
 		background-size: cover;
@@ -3504,7 +3504,7 @@ input, select, textarea {
 		background-image: url('../../images/prateek.jpeg')
 	}
 	.syed {
-		background-image: url('../../images/syed.png');
+		background-image: url('../../images/syed.jpg');
 	}
 	.ravi {
 		background-image: url('../../images/ravi.jpeg');
@@ -3513,7 +3513,7 @@ input, select, textarea {
 		background-image: url('../../images/anica.jpeg');
 	}
 	.claire {
-		background-image: url('../../images/default.jpeg');
+		background-image: url('../../images/clairez.jpeg');
 	}
 	.michael {
 		background-image: url('../../images/michael.jpeg');
@@ -3525,7 +3525,7 @@ input, select, textarea {
 		background-image: url('../../images/tyler.jpeg');
 	}
 	.sivansh {
-		background-image: url('../../images/default.jpeg');
+		background-image: url('../../images/default.png');
 	}
 	.kunal {
 		background-image: url('../../images/kunal.jpeg');
@@ -3539,12 +3539,40 @@ input, select, textarea {
 	.joseph {
 		background-image: url('../../images/joseph.jpeg')
 	}
-	.claire {
-		background-image: url('../../images/claire.jpeg')
+	.clairez {
+		background-image: url('../../images/clairez.jpeg')
 	}
 	.victor {
 		background-image: url('../../images/victor.jpeg')
 	}
+	.clairec {
+		background-image: url('../../images/default.png')
+	}
+	.impana {
+		background-image: url('../../images/impana.png')
+	}
+	.edwin {
+		background-image: url('../../images/edwin.JPG')
+	}
+	.twisha {
+		background-image: url('../../images/twisha.jpeg')
+	}
+	.rudy {
+		background-image: url('../../images/rudy.JPEG')
+	}
+	.takao {
+		background-image: url('../../images/takao.jpg')
+	}
+	.achal {
+		background-image: url('../../images/achal.JPEG')
+	}
+	.ishan {
+		background-image: url('../../images/default.png')
+	}
+	.ishani {
+		background-image: url('../../images/achal.png')
+	}
+	
 
 .logo {
 	background-image: url('../../images/logo3.svg')
