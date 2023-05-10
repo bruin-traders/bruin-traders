@@ -3525,7 +3525,7 @@ input, select, textarea {
 		background-image: url('../../images/tyler.jpeg');
 	}
 	.sivansh {
-		background-image: url('../../images/default.png');
+		background-image: url('../../images/default.svg');
 	}
 	.kunal {
 		background-image: url('../../images/kunal.jpeg');
@@ -3546,7 +3546,7 @@ input, select, textarea {
 		background-image: url('../../images/victor.jpeg')
 	}
 	.clairec {
-		background-image: url('../../images/default.png')
+		background-image: url('../../images/default.svg')
 	}
 	.impana {
 		background-image: url('../../images/impana.png')
@@ -3567,10 +3567,13 @@ input, select, textarea {
 		background-image: url('../../images/achal.JPEG')
 	}
 	.ishan {
-		background-image: url('../../images/default.png')
+		background-image: url('../../images/default.svg')
 	}
 	.ishani {
-		background-image: url('../../images/default.png')
+		background-image: url('../../images/default.svg')
+	}
+	.peiyuan {
+		background-image: url('../../images/peiyuan.jpg');
 	}
 	
 
